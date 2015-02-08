@@ -1,0 +1,17 @@
+#slide img{
+	height: 250px;
+	overflow: hidden;
+	position: relative;
+	width: 100%;
+	-moz-border-radius: 5px; 
+	border-radius: 5px;
+	z-index:0;
+}
+#slide{
+	height: 250px;
+	overflow: hidden;
+	position: relative;
+	width: 100%;
+	-moz-border-radius: 5px; 
+	border-radius: 5px
+}

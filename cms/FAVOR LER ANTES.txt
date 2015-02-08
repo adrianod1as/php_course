@@ -1,0 +1,6 @@
+Há somente um administrador chefe de login "admin" e senha "admin1". Para ele são permitidas funcionalidades além do outro tipo de usuário, administrador funcionário.
+As funcionalidades são adicionar e deletar usuários. Fiz assim pois partir da idéia que se fosse permitido a todos podeira gerar "bagunça".
+A edição do site é divida em 3 tópicos. O tema do "layout", uma combobox, Os slides do "slideshow", caixa de url e de descrição da imagem, e o restante é feio pelo editor fornecido por você, utilizando o "include" para incluir as páginas de html.
+Na alteração do tema, as vezes a alteração não é visível devido ao navegador. Ele deve salvar as informações e continua usando as informações antigas. Quando isso acontecer é so fechar e reabrir o navegador ou talvez só abri em outra aba (dependendo do navegador...usei o chrome).
+Tentei deixar bem identado. Qualquer problema, favor entrar em contato comigo.
+
